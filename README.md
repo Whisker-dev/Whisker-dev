@@ -8,5 +8,8 @@ I'm a developer interested in web, shell scripting, and low-level programming.
 
 ![Express](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white) Used in CyberServer 9000
 
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnometerminal&logoColor=white)
+"If the OS is a city, the CLI is my home" -me
+
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
