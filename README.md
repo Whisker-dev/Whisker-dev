@@ -4,3 +4,5 @@ I'm a developer interested in web, shell scripting, and low-level programming.
 - 📡 Exploring Meshtastic and networking
 - 🐍 python, Node.js and rust 
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Open-Source Freedom fighter
+
