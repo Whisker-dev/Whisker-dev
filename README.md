@@ -8,4 +8,4 @@ I'm a developer interested in web, shell scripting, and low-level programming.
 ![Express](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white) Used in CyberServer 9000
 
 
-![Snake animation](https://github.com/Whisker_dev/Whisker_dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
