@@ -5,6 +5,7 @@ I'm a developer interested in web, shell scripting, and low-level programming.
 - 🐍 python, Node.js and rust 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  Open-Source Freedom fighter
+
 ![Express](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white) Used in CyberServer 9000
 
 
