@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Pakistan</h3>
 
 
-- 👨‍🎓 Currently Learning **Zig** because of it being easy o learn and still having low level capabilities
+- 👨‍🎓 Currently Learning **Zig** because of it being easy to learn and still having low level capabilities
 
 - 👨‍💻 All of my projects are available in [My main repo](https://github.com/Whisker-dev/Whisker-dev/)
 
